@@ -4,10 +4,11 @@
 An OpenCV mini-project that transforms images by highlighting the main subject. It retains the subject's color, smooths details, desaturates the background, and overlays artistic edges. The output shows a 2x2 montage of the original, mask, enhanced, and final stylized images.
 
 ## Features
-- Selective color retention on the main subject  
+- Selective color retention on the main subject
+- Guassian Bluring on image  
 - Background desaturation for emphasis  
 - Artistic edge overlay  
-- 2x2 montage output for easy comparison
+- montage output for easy comparison
 
 ---
 ## Demo  (output) -
