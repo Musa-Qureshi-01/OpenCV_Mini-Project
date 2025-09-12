@@ -12,7 +12,8 @@ An OpenCV mini-project that transforms images by highlighting the main subject. 
 
 ---
 ## Demo  (output) -
-![WhatsApp Image 2025-09-09 at 20 20 29_4aa65732](https://github.com/user-attachments/assets/c0e2488f-e692-4fe4-90b3-80a5ae2cb517)# Selective Color Pop & Edge Stylizer
+![WhatsApp Image 2025-09-09 at 20 20 29_4aa65732](https://github.com/user-attachments/assets/c0e2488f-e692-4fe4-90b3-80a5a2cb517)# Selective Color Pop & Edge Stylizer
+
 
 ---
 
